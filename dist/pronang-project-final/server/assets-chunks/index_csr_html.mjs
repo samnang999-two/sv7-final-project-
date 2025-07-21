@@ -8,10 +8,10 @@ export default `<!doctype html>
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="style.css" rel="stylesheet">
-<link rel="stylesheet" href="styles-PYFXD3GJ.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-PYFXD3GJ.css"></noscript></head>
+<link rel="stylesheet" href="styles-BJCVMHSH.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-BJCVMHSH.css"></noscript></head>
 <body ngcm="">
   <app-root></app-root>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="main-EJ63QZJT.js" type="module"></script></body>
+<script src="main-XKSCNDIU.js" type="module"></script></body>
 </html>
 `;
